@@ -2,8 +2,8 @@
 Copyright (c) 2003-2023, CKSource Holding sp. z o.o. All rights reserved.
 For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
 */
-CKEDITOR.plugins.setLang( 'specialchar', 'fr-ca', {
-	options: 'Option des caractères spéciaux',
-	title: 'Sélectionner un caractère spécial',
-	toolbar: 'Insérer un caractère spécial'
+CKEDITOR.plugins.setLang( 'smiley', 'fr-ca', {
+	options: 'Options d\'émoticônes',
+	title: 'Insérer un émoticône',
+	toolbar: 'Émoticône'
 } );
